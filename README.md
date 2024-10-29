@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 
 # 👋 Hello there! I’m Nasal Thanseer M Noufal
 
+‧˚₊꒷꒦︶︶︶︶︶꒷꒦︶︶︶︶︶꒦꒷‧₊˚⊹
+
 🎓 Soon-to-be Undergraduate in Computer Science Engineering  
 📍 Thrissur, Kerala, India  
 💡 Passionate about AR/VR/MR, Graphic Design, and bringing ideas to life through code!  
