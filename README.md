@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **nasal-thanseer/nasal-thanseer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ---
 
-# 👋 Hello! I’m Nasal Thanseer
+# 👋 Hello there! I’m Nasal Thanseer M Noufal
 
 🎓 Soon-to-be Undergraduate in Computer Science Engineering  
 📍 Thrissur, Kerala, India  
