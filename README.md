@@ -27,6 +27,10 @@ Here are some ideas to get you started:
 ◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢
 
 ---
+  ─── ❖ ── ✦ ── ❖ ───
+           ⋮
+           ✧
+
 
 ### 👨‍💻 About Me
 I’m a Computer Science Engineering student with a creative edge, specializing in immersive technologies like **AR, VR, MR** alongside **UI/UX design** and **web development**. I love combining technical skills with design principles to create engaging and impactful projects. As a team leader and collaborative problem-solver, I aim to innovate and inspire in the field of technology.
