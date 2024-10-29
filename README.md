@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 📍 Thrissur, Kerala, India  
 💡 Passionate about AR/VR/MR, Graphic Design, and bringing ideas to life through code!  
 
+◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢
 ---
 
 ### 👨‍💻 About Me
