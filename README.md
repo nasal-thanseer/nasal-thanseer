@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 ◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢
 
 🎓 Soon-to-be Undergraduate in Computer Science Engineering  
-📍 Thrissur, Kerala, India  
+📍 Ajman, United Arab Emirates  
 💡 Passionate about AR/VR/MR, Graphic Design, and bringing ideas to life through code!  
 
 ◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢
